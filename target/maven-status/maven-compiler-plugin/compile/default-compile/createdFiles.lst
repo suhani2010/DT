@@ -1,0 +1,11 @@
+com\table\servlets\DeleteDataServlet.class
+com\table\helper\ConnectionProvider.class
+com\table\entities\Message.class
+com\table\entities\User.class
+com\table\servlets\ShowFilterServlet.class
+com\table\servlets\CreateTableServlet.class
+com\table\servlets\LoginServlet.class
+com\table\dao\UserDao.class
+com\table\servlets\InsertDataServlet.class
+com\table\servlets\RegisterServlet.class
+com\table\servlets\LogoutServlet.class
